@@ -1,16 +1,22 @@
-## Hi there 👋
+## Привет, я Кирилл
 
-<!--
-**Qut77/Qut77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer.
 
-Here are some ideas to get you started:
+🔹 Cоздаю веб-приложения и REST API  
+🔹 Специализируюсь на Python и Бэкенд-разработке  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Инструменты
+Python, Django, фреймворк Django REST
+
+### Telegram 
+@qvAze
+---
+## Hi, I'm Kirill
+
+Junior Backend Developer.
+
+🔹 Currently building web applications and REST APIs  
+🔹 Focused on Python and backend development  
+
+### Tech
+Python, Django, Django REST Framework
