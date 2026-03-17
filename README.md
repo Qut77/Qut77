@@ -1,16 +1,20 @@
-## Привет, я Кирилл
-Junior Backend Developer.
-🔹 Cоздаю веб-приложения и REST API  
-🔹 Специализируюсь на Python и Бэкенд-разработке  
+Привет, я Кирилл
 
-### Инструменты
-Python, Django, фреймворк Django REST
-#### Telegram @qvAze
+Python Developer & QA Automation Engineer 
+🔹 Пишу надежные автотесты на Pytest + Playwright
+🔹 Имею опыт в Backend (Django, DRF), что помогает мне "видеть" баги в архитектуре
+🔹 Стремлюсь к созданию эффективных CI/CD процессов и нагрузочному тестированию
+
+Инструменты: Python, Playwright, Pytest, SQL, Docker, Django/DRF
+Telegram: @qvAze
+
 ---
-## Hi, I'm Kirill
-Junior Backend Developer.
-🔹 Currently building web applications and REST APIs  
-🔹 Focused on Python and backend development  
 
-### Tech
-Python, Django, Django REST Framework
+Hi, I'm Kirill
+
+Python Developer & QA Automation Engineer 
+🔹 Crafting robust automation suites with Pytest & Playwright
+🔹 Strong Backend background (Django, DRF) for deep-dive technical testing
+🔹 Focused on building scalable AQA frameworks and CI/CD integration
+
+Tech Stack: Python, Playwright, Pytest, SQL, Docker, Django/DRF
