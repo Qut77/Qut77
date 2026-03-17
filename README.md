@@ -6,7 +6,7 @@ Python Developer & QA Automation Engineer
 🔹 Стремлюсь к созданию эффективных CI/CD процессов и нагрузочному тестированию
 
 Инструменты: Python, Playwright, Pytest, SQL, Docker, Django/DRF
-Telegram: @qvAze
+Telegram: @Kalikirill
 
 ---
 
